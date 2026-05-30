@@ -1,0 +1,36 @@
+flowchart TD
+    A[Approved Value Claim<br/>Business case, charter, or portfolio score] --> B[Intake & Normalization<br/>Initiative, sponsor, benefit claim, metric, owner, timing]
+    B --> C{Benefit Type}
+    C --> C1[Cycle-Time Reduction]
+    C --> C2[Cost Avoidance]
+    C --> C3[Risk Reduction]
+    C --> C4[Adoption Improvement]
+    C --> C5[Revenue Protection]
+    C --> C6[Quality / Rework Reduction]
+    C1 --> D[Measurement Contract<br/>Baseline, target, actual, source, frequency]
+    C2 --> D
+    C3 --> D
+    C4 --> D
+    C5 --> D
+    C6 --> D
+    D --> E{Evidence Confidence}
+    E --> E1[High<br/>Verified source, stable metric, clear owner]
+    E --> E2[Medium<br/>Partial evidence, timing still maturing]
+    E --> E3[Low<br/>Weak baseline, proxy metric, missing owner]
+    E1 --> F[Realization Risk Review]
+    E2 --> F
+    E3 --> F
+    F --> G{Human Review Route}
+    G --> H[Scale<br/>Benefit proven and repeatable]
+    G --> I[Continue<br/>Benefit plausible and still maturing]
+    G --> J[Hold<br/>Evidence gap or dependency blocks confidence]
+    G --> K[Retire<br/>Benefit no longer credible or no longer needed]
+    H --> L[Value Realization Ledger]
+    I --> L
+    J --> L
+    K --> L
+    L --> M[Benefits Review Summary<br/>Executive-ready status, evidence gaps, risks, asks]
+    M --> N[Executive Portfolio Review Pack Builder]
+    M --> O[PMO Governance Operations Log<br/>Unresolved decisions, risks, owner actions]
+    O --> P[Next Review Cycle]
+    P --> B

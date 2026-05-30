@@ -1,0 +1,24 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python / generated artifacts
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Local/private working files
+*.local.*
+private/
+secrets/
+.env
+
+# Archives
+*.zip
