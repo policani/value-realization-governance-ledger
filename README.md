@@ -2,6 +2,18 @@
 
 A lightweight, human-governed benefits governance ledger for connecting approved portfolio value claims to measurable outcomes, evidence confidence, realization risk, and continue / stop / scale review decisions.
 
+## Portfolio exhibit
+
+| Review question | Where to look |
+|---|---|
+| Status | Public portfolio prototype for value-realization governance, benefits evidence, and sponsor-review support. |
+| Best evaluator | PMO, EPMO, portfolio, program, transformation, finance-partnered, and executive operations leaders who need value claims to stay reviewable after approval. |
+| Operating decision supported | Which approved benefits are evidenced, still maturing, at risk, missing owners, or ready for scale, continue, hold, or retire discussion? |
+| Concrete example | [`examples/sample-output.html`](examples/sample-output.html) shows a synthetic value ledger and benefits review summary. |
+| Before / after proof | Before: approved value claims are separated from delivery status, owners, baselines, and evidence. After: each claim has benefit type, measurement fields, owner signal, confidence, realization risk, evidence gap, and human review route. |
+| Boundary | This ledger tracks benefit evidence. It does not certify savings, calculate official finance results, approve continuation, retire work, or replace finance/accounting owners. |
+| Portfolio lane | [Track value realization](https://policani.net/#navigator). |
+
 ## Operating problem
 
 Portfolios often approve work based on promised value, then lose the thread once delivery begins. Business cases, charters, and portfolio scores may contain useful claims, but the operating cadence often shifts toward status, delivery dates, and escalations. Leaders need a simple way to ask: **Did the expected value materialize, what evidence supports that answer, who owns the measure, and what decision is required next?**
