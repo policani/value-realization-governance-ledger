@@ -20,6 +20,11 @@ Portfolios often approve work based on promised value, then lose the thread once
 
 This repository provides a public-safe example of an AI-assisted PMO value realization system. It is not a finance system. It is not a PPM platform. It is an operating aid for making benefits traceability visible enough for human review.
 
+For local maintenance, compare benefit claims against
+[`../roi-business-value-anti-patterns.md`](../roi-business-value-anti-patterns.md)
+so completion, adoption, proxy measures, and unsupported savings stay separate
+from realized value.
+
 ## Who this is for
 
 - PMO, EPMO, portfolio, program, and transformation leaders.
@@ -223,4 +228,5 @@ This package assists with intake, classification, analysis, synthesis, routing, 
 Source code and scripts are licensed under MIT. Documentation, prompts, templates, examples, and other non-code materials are licensed under CC BY 4.0 with attribution to Marco Policani. See `LICENSE.md`.
 
 ## Search keywords
+
 PMO, EPMO, portfolio governance, value realization, benefits realization, benefits tracking, benefits governance, portfolio value management, executive decision support, business case governance, project charter governance, portfolio scoring, measurement governance, evidence confidence, realization risk, cost avoidance, cycle-time reduction, risk reduction, adoption metrics, revenue protection, human-in-the-loop AI, ChatGPT Project, AI-assisted PMO, portfolio operating model.

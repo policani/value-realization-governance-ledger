@@ -13,8 +13,11 @@ Send unresolved:
 - finance validation requests;
 - dependency blockers;
 - follow-up dates.
+- benefits follow-up register rows with gap, owner, due date, review cadence, decision needed, escalation path, and next evidence source.
 
 Do not send routine ledger rows that require no action.
+Do not send finance-sensitive claims as certified outcomes; route validation to
+the accountable finance, sponsor, or measure owner.
 
 ## To Executive Portfolio Review Pack Builder
 
@@ -22,6 +25,7 @@ Send:
 
 - benefits review summary;
 - supported / maturing / at-risk / unsupported benefit counts;
+- measurement contract summary for executive-visible claims;
 - high-risk benefits requiring executive attention;
 - scale / continue / hold / retire review recommendations;
 - decisions required;

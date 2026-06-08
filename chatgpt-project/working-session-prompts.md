@@ -14,7 +14,7 @@ Turn this benefits ledger into an executive-ready benefits review summary. Separ
 
 ## Create follow-up actions
 
-From this ledger, identify unresolved owner actions that should go to the PMO Governance Operations Log. Keep the action list short, specific, and owner-oriented.
+From this ledger, identify unresolved owner actions that should go to the PMO Governance Operations Log. Create a benefits follow-up register with gap, owner, due date, review cadence, decision needed, escalation path, next evidence source, and handoff target. Keep the action list short, specific, and owner-oriented.
 
 ## Challenge weak value claims
 
