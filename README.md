@@ -218,6 +218,9 @@ value-realization-governance-ledger/
 
 This package assists with intake, classification, analysis, synthesis, routing, drafting, and quality review. Humans remain accountable for official financial results, benefit certification, risk acceptance, funding, continuation, retirement, scaling, stakeholder communication, and executive decisions.
 
-## Search keywords
+## License
 
+Source code and scripts are licensed under MIT. Documentation, prompts, templates, examples, and other non-code materials are licensed under CC BY 4.0 with attribution to Marco Policani. See `LICENSE.md`.
+
+## Search keywords
 PMO, EPMO, portfolio governance, value realization, benefits realization, benefits tracking, benefits governance, portfolio value management, executive decision support, business case governance, project charter governance, portfolio scoring, measurement governance, evidence confidence, realization risk, cost avoidance, cycle-time reduction, risk reduction, adoption metrics, revenue protection, human-in-the-loop AI, ChatGPT Project, AI-assisted PMO, portfolio operating model.
